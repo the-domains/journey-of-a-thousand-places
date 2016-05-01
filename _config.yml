@@ -1,7 +1,7 @@
 name: Journey of a Thousand Places
 favicon: null
-layout_spectrum: 0.36418
-typography_spectrum: 0.10242
+layout_spectrum: 0.26715
+typography_spectrum: 0.11233
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020202'
-    - '#fefdf8'
-    - '#b3b1be'
-    - '#676386'
-    - '#f5d78f'
+    - '#eaf5fb'
+    - '#071226'
+    - '#76b8ec'
+    - '#346cd9'
+    - '#1f315f'
   brandStrength: 0.7681701097171754
   lightness: 0.020780530758202076
   saturation: 0.644170377869159
