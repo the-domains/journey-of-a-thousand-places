@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Journey of a Thousand Places]]></title>
+        <description><![CDATA[Journey of a Thousand Places]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 18:52:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Real Life Angel]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b17528b-c619-4a3e-94f0-46a66003b620.jpg">]]></description>
+            <link>undefineda-real-life-angel/index.html</link>
+            <guid isPermaLink="false">145178e1-af62-428e-8207-2780716c715d</guid>
+            <pubDate>Sun, 01 May 2016 18:52:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
