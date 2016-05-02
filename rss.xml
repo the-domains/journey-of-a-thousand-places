@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Journey of a Thousand Places]]></title>
         <description><![CDATA[Journey of a Thousand Places]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/journey-of-a-thousand-places/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 18:52:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 23:58:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/journey-of-a-thousand-places/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[(Out and) About]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d93a2893-630f-411c-ae86-950d6c5bd8a3.jpg">]]></description>
+            <link>https://thegrid.ai/journey-of-a-thousand-places/out-and-about/index.html</link>
+            <guid isPermaLink="false">7acf8151-242a-46d1-ac7e-79e450863696</guid>
+            <pubDate>Mon, 02 May 2016 23:57:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Real Life Angel]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b17528b-c619-4a3e-94f0-46a66003b620.jpg">]]></description>
-            <link>undefineda-real-life-angel/index.html</link>
+            <link>https://thegrid.ai/journey-of-a-thousand-places/a-real-life-angel/index.html</link>
             <guid isPermaLink="false">145178e1-af62-428e-8207-2780716c715d</guid>
             <pubDate>Sun, 01 May 2016 18:52:14 GMT</pubDate>
         </item>
